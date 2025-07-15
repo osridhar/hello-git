@@ -1,0 +1,28 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "age": 30,
+  "address": {
+    "streetAddress": "1600 Amphitheatre Parkway",
+    "city": "Mountain View",
+    "state": "CA",
+    "postalCode": "94043"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "210-555-1234"
+    },
+    {
+      "type": "fax",
+      "number": "650-555-1234"
+    }
+  ],
+  "email": "john.doe@example.com",
+  "isEmployed": true,
+  "hobbies": [
+    "reading",
+    "hiking",
+    "coding"
+  ]
+}
